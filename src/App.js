@@ -20,12 +20,7 @@ function App() {
 
       <p>ласкаво просимо до нашого сайту!</p>
 
-      <img
-        src={
-          "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FEyebleach%2Fcomments%2Fnbut8g%2Fday_1_of_posting_cute_random_animals_to_make%2F&ved=0CBYQjRxqFwoTCOD2nsiHzZIDFQAAAAAdAAAAABAH&opi=89978449"
-        }
-        alt={"example"}
-      />
+      <img src={"/Users/irina/Desktop/images.jpeg"} alt={"example"} />
 
       <p>
         улюблений сайт: <a href={myFavoriteSite.url}>{myFavoriteSite.name}</a>

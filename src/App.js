@@ -20,7 +20,12 @@ function App() {
 
       <p>ласкаво просимо до нашого сайту!</p>
 
-      <img src={"/Users/irina/Desktop/images.jpeg"} alt={"example"} />
+      <img
+        src={
+          "https://i.pinimg.com/1200x/ac/e4/d6/ace4d6b62d8a204bbcbe4c747f616fd8.jpg"
+        }
+        alt={"example"}
+      />
 
       <p>
         улюблений сайт: <a href={myFavoriteSite.url}>{myFavoriteSite.name}</a>

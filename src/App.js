@@ -8,8 +8,8 @@ function App() {
     url: "https://www.google.com/",
   };
 
-  const num1 = 5;
-  const num2 = 10;
+  const num1 = 3;
+  const num2 = 27;
   const sum = num1 + num2;
 
   const colors = ["червоний", "синій", "зелений"];

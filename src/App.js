@@ -22,7 +22,7 @@ function App() {
 
       <img
         src={
-          "https://i.pinimg.com/1200x/ac/e4/d6/ace4d6b62d8a204bbcbe4c747f616fd8.jpg"
+          "https://www.google.com/imgres?q=picture%20cat&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F050%2F393%2F628%2Fsmall%2Fcute-curious-gray-and-white-kitten-in-a-long-shot-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fcute-baby-cat&docid=D1iDE6e2fSZX2M&tbnid=xoQ_yEPKt1EM1M&vet=12ahUKEwjwguuhis2SAxXSGhAIHcI7B2MQnPAOegQIJhAB..i&w=700&h=350&hcb=2&ved=2ahUKEwjwguuhis2SAxXSGhAIHcI7B2MQnPAOegQIJhAB"
         }
         alt={"example"}
       />

@@ -12,7 +12,7 @@ function App() {
   const num2 = 27;
   const sum = num1 + num2;
 
-  const colors = ["червоний", "синій", "зелений"];
+  const colors = ["purple", "green", "yellow"];
 
   return (
     <div className="App">

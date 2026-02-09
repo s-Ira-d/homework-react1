@@ -22,7 +22,7 @@ function App() {
 
       <img
         src={
-          "https://www.google.com/imgres?q=react&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F30%2FReact_Logo_SVG.svg&imgrefurl=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FReact&docid=uDQPDMqXXQYhqM&tbnid=1YRCTmBnER_nsM&vet=12ahUKEwi9_I2z_cySAxWvPxAIHZqjDnEQnPAOegQIIBAB..i&w=800&h=728&hcb=2&ved=2ahUKEwi9_I2z_cySAxWvPxAIHZqjDnEQnPAOegQIIBAB"
+          "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FEyebleach%2Fcomments%2Fnbut8g%2Fday_1_of_posting_cute_random_animals_to_make%2F&ved=0CBYQjRxqFwoTCOD2nsiHzZIDFQAAAAAdAAAAABAH&opi=89978449"
         }
         alt={"example"}
       />
